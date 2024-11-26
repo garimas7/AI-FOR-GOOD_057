@@ -85,7 +85,7 @@ Here are the tools that helped make the testing process efficient:
 Have any questions or suggestions? Feel free to reach out to me:
 
 - **Email**: [garimasingh25177@gmail.com](mailto:garimasingh25177@gmail.com)
-- **LinkedIn**: [garimasingh251](https://www.linkedin.com/in/garimasingh251/)
+- **LinkedIn**: [garimas7](https://www.linkedin.com/in/garimas7/)
 - **GitHub**: [garimas7](https://github.com/garimas7)
 
 ---
